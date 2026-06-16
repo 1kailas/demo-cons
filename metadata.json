@@ -1,0 +1,6 @@
+{
+  "name": "Rainbow Hifabs",
+  "description": "Completely redesigned and modernized mobile-responsive portal for Rainbow Hifabs, leaders in custom aluminum door and window fabrication, engineering, and construction services in Cochin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
